@@ -46,7 +46,7 @@
       * [Thêm các comment cho code, chỉnh sửa cho mã dễ đọc hơn](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit?fbclid=IwAR0h1nK4Z9Kwlen4pAHPK_Gcp1ieENDhV9ERr_FIwqmf2_wDqrLb_GrIMeg#heading=h.bxti8dsihgwm) (1 tiếng)
       
 ## Hướng dẫn sử dụng
-
+   * [Video hướng dẫn sử dụng](https://youtu.be/YQDAzpK79fw)
 ## Tổng kết
   * Nắm được những kiến thức cơ bản về quy trình tạo sản phẩm 
   * Hoàn thành các công việc được giao
